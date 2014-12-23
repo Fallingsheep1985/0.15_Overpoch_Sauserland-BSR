@@ -1,0 +1,24 @@
+BUGS
+
+metal doors cant upgrade
+BE filters overwatch clothes
+static hemp fields - need to reduce amount
+
+ENHANCEMENTS (may not make it in final release!)
+fishing area for fishing boat
+fish trader
+random radiation zones with markers and high value loot
+nuke event
+neon lights (add in)
+dancing hookers(ProjectX)
+more hookers at casino
+Re do loot for Casino killhouse
+add survivor recruit info to readme
+(how to change spawn amount, etc)
+add more zombie hordes (not happening FPS drop is to much!)
+Ai spawns at custom areas (new areas)
+black jack
+poker (maybe)
+craps (maybe)
+chess (if i can ever figure out how to port the API :P )
+admin tools dialog menu
