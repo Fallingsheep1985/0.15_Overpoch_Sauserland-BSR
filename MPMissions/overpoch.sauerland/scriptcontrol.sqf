@@ -141,6 +141,6 @@ execVM "\z\addons\dayz_server\CustomBuildings\oilrig1.sqf";
 // DO NOT CHANGE THIS!!
 //Repack version 
 REPACKMOD = "Overpoch Sauserland BSR"; 
-BUILDNUMBER = "105";
+BUILDNUMBER = "106";
 
 
